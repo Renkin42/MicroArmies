@@ -8,3 +8,11 @@ eclipse/
 # Gradle
 .gradle/
 twitter4j.properties
+build/
+
+# Minecraft Forge
+config/
+crash-reports/
+logs/
+/assets/
+mods/
