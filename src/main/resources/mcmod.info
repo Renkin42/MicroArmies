@@ -1,0 +1,19 @@
+[
+{
+  "modid": "microarmies",
+  "name": "Renkin42's Micro-Armies",
+  "description": "Adds new craftable mini soldiers who will fight each other to the death.",
+  "version": ${version},
+  "credits": "Created by Renkin42",
+  "logoFile": "assets/renkin42swt/textures/logo.png",
+  "mcversion": ${mcversion},
+  "url": "http://www.curse.com/mc-mods/minecraft/stuff-worth-throwing",
+  "updateUrl": "",
+  "authors": [],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+         "mod_MinecraftForge"
+]
+}
+]

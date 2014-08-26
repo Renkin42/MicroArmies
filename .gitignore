@@ -1,0 +1,10 @@
+# Eclipse
+.settings/
+eclipse/
+.classpath
+.project
+/bin/
+
+# Gradle
+.gradle/
+twitter4j.properties
